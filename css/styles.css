@@ -1,0 +1,54 @@
+.logo{
+  height: 35px;
+  margin-left: 15px;
+}
+
+.size{
+  height: 700px;
+  width: 100%;
+}
+
+.line{
+  margin-bottom: 50px;
+}
+
+.line1{
+  margin-top: 50px;
+}
+
+.resize{
+  margin-left: 250px;
+  width: 1000px;
+}
+
+.leftbox{
+  background-color: green;
+}
+
+.leftbox1{
+  height: 600px;
+  width: 800px;
+  background-color: pink;
+  position: absolute;
+  left: 600px;
+}
+.righttopL{
+  background-color: red;
+  width: 50%;
+  height: 300px;
+}
+
+.righttopL1{
+  background-color: blue;
+  width: 25%;
+  height: 300px;
+}
+
+.righttopL2{
+  background-color: purple;
+  width: 25%;
+  height: 300px;
+  position: absolute;
+  left: 380px;
+  top: 1440px;
+}
